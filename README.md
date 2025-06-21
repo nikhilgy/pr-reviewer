@@ -11,6 +11,16 @@ A modern, AI-powered pull request review tool that integrates with Azure DevOps 
 - ⚡ **Real-time Streaming**: Watch AI reviews stream in real-time
 - 🔒 **Secure**: Environment-based configuration for API keys and tokens
 
+## 🎬 Demo Video
+
+**Watch the tool in action!** 
+
+
+https://github.com/user-attachments/assets/f54ce0ed-fa56-447f-b067-10a2c1fb7994
+
+
+
+
 ## Quick Start
 
 ### 1. Setup Environment
